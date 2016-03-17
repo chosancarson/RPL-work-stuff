@@ -1,3 +1,4 @@
+<script type="text/javascript" language="javascript" src="../../scripts/jquery-1.8.2.min.js"></script>    
 <script language="javascript">
     $(document).ready(function () {
         var num_tr = $("body>div:nth-child(2)>table>tbody>tr");
@@ -16,4 +17,4 @@
             }
         }
     });
-</script>  
+</script>    

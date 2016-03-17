@@ -1,3 +1,4 @@
+<script language="javascript">
     $(document).ready(function () {
         var num_tr = $("body>div:nth-child(2)>table>tbody>tr");
         //console.log(num_tr.length);
@@ -15,3 +16,4 @@
             }
         }
     });
+</script>  

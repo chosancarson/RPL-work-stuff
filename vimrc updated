@@ -1,0 +1,12 @@
+set relativenumber
+set number
+set tabstop=4
+set softtabstop=4
+set expandtab
+set cursorline
+filetype indent on
+set smartindent
+nnoremap j gj
+nnoremap k gk
+inoremap jk <esc>
+execute pathogen#infect()
